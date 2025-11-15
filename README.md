@@ -13,4 +13,4 @@ This is my Week 1 AWS project where I deployed a static website using AWS S3.
 - index.html
 
 ## 🔗 Live Demo
-[http://your-s3-link-here](http://naj-s3-site.s3-website-us-east-1.amazonaws.com/)
+(http://naj-s3-site.s3-website-us-east-1.amazonaws.com/)
